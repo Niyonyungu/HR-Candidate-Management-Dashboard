@@ -4,7 +4,7 @@ import AppHeader from './AppHeader'
 import CandidateForm from './CandidateForm'
 import CandidateList from './CandidateList'
 import CandidateStats from './CandidateStats'
-import CandidateModal from './CandidateModal.JSX'
+import CandidateModal from './CandidateModal'
 import { ToastContainer, toast } from "react-toastify"
 import "react-toastify/dist/ReactToastify.css"
 
