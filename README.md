@@ -36,11 +36,11 @@ This project is a lightweight, internal dashboard tool designed to streamline th
 
 1.  Clone the repository:
     ```bash
-    git clone <https://github.com/Niyonyungu/HR-Candidate-Management-Dashboard>
+    git clone https://github.com/Niyonyungu/HR-Candidate-Management-Dashboard
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd <HR-Candidate-Management-Dashboard>
+    cd HR-Candidate-Management-Dashboard
     ```
 3.  Install dependencies:
     ```bash
